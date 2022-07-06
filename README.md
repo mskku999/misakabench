@@ -1,4 +1,4 @@
-# misakabench
+# misakabench （可）
 一个来自于御坂网络的VPS的测试脚本，修改自teddysun的bench.sh
 
 如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
